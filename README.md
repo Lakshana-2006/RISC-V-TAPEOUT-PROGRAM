@@ -26,7 +26,7 @@
 $ sudo apt-get update
 $ sudo apt install gtkwave
 ```
-
+![image](Screenshot3.jpg)
 
 ---
 
