@@ -45,3 +45,6 @@ git submodule update --init --recursive
 # Compile and install
 make
 sudo make install
+
+```
+![image](Screenshot1.jpg)
