@@ -21,12 +21,7 @@
 
 ![image](Screenshot4.jpg)
 
-**iVerilog**
-```
-$ sudo apt-get update
-$ sudo apt install gtkwave
-```
-![image](Screenshot3.jpg)
+
 
 ---
 
@@ -55,3 +50,10 @@ sudo make install
 
 ```
 ![image](Screenshot1.jpg)
+
+**iVerilog**
+```
+$ sudo apt-get update
+$ sudo apt install gtkwave
+```
+![image](Screenshot3.jpg)
