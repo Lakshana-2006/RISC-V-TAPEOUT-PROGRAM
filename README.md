@@ -19,7 +19,7 @@
 - OS: **Ubuntu 20.04 or newer**  
 - CPU: **4 vCPUs**  
 
-<img width="981" height="480" alt="System Details" src="https://github.com/user-attachments/assets/92a6a29f-0acd-413b-9392-31fbca24488b" />  
+![image](Screenshot1.jpg)
 
 ---
 
