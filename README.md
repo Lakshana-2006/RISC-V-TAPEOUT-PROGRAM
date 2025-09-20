@@ -19,7 +19,7 @@
 - OS: **Ubuntu 20.04 or newer**  
 - CPU: **4 vCPUs**  
 
-![image](Screenshot1.jpg)
+![image](Screenshot4.jpg)
 
 ---
 
