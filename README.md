@@ -21,6 +21,13 @@
 
 ![image](Screenshot4.jpg)
 
+**iVerilog**
+```
+$ sudo apt-get update
+$ sudo apt install gtkwave
+```
+
+
 ---
 
 ### Yosys Installation  
