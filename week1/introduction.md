@@ -115,6 +115,7 @@ endmodule
 * The same testbench can be reused to verify the netlist.
 
 ---
+![image](https://github.com/Lakshana-2006/RISC-V-TAPEOUT-PROGRAM/blob/ca8605dadf414ac77275d2c74115a82348c8079d/week1/picture/Screenshot%20from%202025-09-24%2015-59-25.png)
 
 ### What is a `.lib` File?
 
