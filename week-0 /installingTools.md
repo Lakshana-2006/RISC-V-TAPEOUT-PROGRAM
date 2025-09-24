@@ -52,3 +52,15 @@ $ sudo apt-get update
 $ sudo apt install gtkwave
 ```
 ![image](Screenshot3.jpg)
+
+#### <ins>gtkwave</ins>
+
+```bash
+sudo apt-get update
+sudo apt install gtkwave
+sudo apt-get install libcanberra-gtk-module
+```
+### TOOL CHECK:
+```
+ gtkwave -v
+```
