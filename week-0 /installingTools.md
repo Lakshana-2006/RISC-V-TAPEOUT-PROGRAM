@@ -47,14 +47,17 @@ sudo make install
 ![image](https://github.com/Lakshana-2006/RISC-V-TAPEOUT-PROGRAM/blob/099cdc7fb4ceb6790fe4598a095eb158434719a3/week-0%20/pictures/yosys.png)
 
 **iVerilog**
+#### <ins>Iverilog</ins>
+```bash
+sudo apt-get update
+sudo apt-get install iverilog
 ```
-$ sudo apt-get update
-$ sudo apt install gtkwave
-![image](https://github.com/Lakshana-2006/RISC-V-TAPEOUT-PROGRAM/blob/e26f00981671f2ff4b71bc9ecbc71a3ed4ea4089/week-0%20/pictures/iverilog.png)
-```
-![image](Screenshot3.jpg)
 
-#### <ins>gtkwave</ins>
+```
+iverilog -v
+
+
+**gtkwave**
 
 ```bash
 sudo apt-get update
