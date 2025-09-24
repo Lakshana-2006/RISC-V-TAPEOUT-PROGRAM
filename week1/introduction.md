@@ -79,7 +79,7 @@ gvim tb_good_mux.v -o good_mux.v
 
 ---
 ### waveform
-![image]()
+![image](https://github.com/Lakshana-2006/RISC-V-TAPEOUT-PROGRAM/blob/a40b8e50aee74dc4de388594e694628d1afed3dd/week1/picture/Screenshot%20from%202025-09-24%2013-59-17.png)
 
 ### Verilog Code Analysis
 
