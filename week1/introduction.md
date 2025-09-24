@@ -12,7 +12,7 @@ This note walks through the complete workflow of implementing a **2:1 Multiplexe
 * In this session we use the open-source **iverilog** simulator.
 * The “stimulator” detects changes in the input signals.
 * The simulator produces a **VCD file** (Value Change Dump) as output.
-
+![image](https://github.com/Lakshana-2006/RISC-V-TAPEOUT-PROGRAM/blob/8e8771626d2550096ef5e9807c339d3685f5211b/week1/picture/Screenshot%20from%202025-09-24%2014-53-51.png)
 ---
 
 #### Design
