@@ -49,7 +49,7 @@ make
 sudo make install
 
 ```
-![image](Screenshot1.jpg)
+![image](week-0 /pictures/yosys.png)
 
 **iVerilog**
 ```
