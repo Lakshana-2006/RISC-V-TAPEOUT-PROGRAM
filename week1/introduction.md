@@ -174,7 +174,7 @@ endmodule
 ![image](https://github.com/Lakshana-2006/RISC-V-TAPEOUT-PROGRAM/blob/e8f3fda83e8a349dc5fb66a565503e728f1a388b/week1/picture/Screenshot%20from%202025-09-24%2016-31-07.png)
 
 **Schematic dot file**
-![image](https://github.com/Lakshana-2006/RISC-V-TAPEOUT-PROGRAM/blob/750daf88087147ba7fe21dfed9a4240c5bd9de84/week1/picture/Screenshot%20from%202025-09-24%2016-40-02.png)
+![image](https://github.com/Lakshana-2006/RISC-V-TAPEOUT-PROGRAM/blob/3361318570926edc5ffe8f6f9d9b2544c25616dc/week1/picture/Screenshot%20from%202025-09-24%2017-41-42.png)
 
 **statistics**
 ![image](https://github.com/Lakshana-2006/RISC-V-TAPEOUT-PROGRAM/blob/2edf8f16e608454e806c5576f26329bbf2a98df9/week1/picture/Screenshot%20from%202025-09-24%2016-40-55.png)
