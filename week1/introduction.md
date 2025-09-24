@@ -78,6 +78,8 @@ gvim tb_good_mux.v -o good_mux.v
 ```
 
 ---
+### waveform
+![image]()
 
 ### Verilog Code Analysis
 
