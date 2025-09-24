@@ -169,7 +169,11 @@ endmodule
    ```
 
 ---
-
+### Output
+![image](https://github.com/Lakshana-2006/RISC-V-TAPEOUT-PROGRAM/blob/615b436150303dd47b0f5c90442b2752fb1a0630/week1/picture/Screenshot%20from%202025-09-24%2016-30-58.png)
+![image]()
+![image]()
+![image]()
 ### Summary
 
 * Understood the roles of **design**, **testbench**, and simulator/stimulator.
