@@ -25,7 +25,8 @@ The design is the Verilog source code that implements the intended functionality
 
 * A testbench applies stimulus to the design to verify its functionality.
 * It has **no primary inputs or outputs**—only the design module does.
-
+  
+![image](https://github.com/Lakshana-2006/RISC-V-TAPEOUT-PROGRAM/blob/d66bcfb16a598d8a5e2776e501de0a81b15f7a35/week1/picture/Screenshot%20from%202025-09-24%2014-50-56.png)
 ---
 
 #### GTKWave
