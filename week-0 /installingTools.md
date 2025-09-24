@@ -17,12 +17,7 @@
 - Memory: **6 GB RAM**  
 - Disk: **50 GB HDD**  
 - OS: **Ubuntu 20.04 or newer**  
-- CPU: **4 vCPUs**  
-
-![image](Screenshot4.jpg)
-
-
-
+- CPU: **4 vCPUs** 
 ---
 
 ### Yosys Installation  
