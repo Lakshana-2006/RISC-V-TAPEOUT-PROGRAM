@@ -56,7 +56,7 @@ sudo apt-get install iverilog
 ```
 iverilog -v
 
-![image]()
+![image](https://github.com/Lakshana-2006/RISC-V-TAPEOUT-PROGRAM/blob/48db7f2778b335cb2e57ea77322c4ce6183837f7/week-0%20/pictures/iverilog.png)
 
 #### <ins>gtkwave</ins>
 
