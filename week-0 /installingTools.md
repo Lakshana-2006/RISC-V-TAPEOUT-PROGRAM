@@ -49,7 +49,7 @@ make
 sudo make install
 
 ```
-![image](week-0 /pictures/yosys.png)
+![image](https://github.com/Lakshana-2006/RISC-V-TAPEOUT-PROGRAM/blob/099cdc7fb4ceb6790fe4598a095eb158434719a3/week-0%20/pictures/yosys.png)
 
 **iVerilog**
 ```
