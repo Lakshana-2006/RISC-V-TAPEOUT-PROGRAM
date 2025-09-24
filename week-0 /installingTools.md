@@ -60,7 +60,7 @@ sudo apt-get update
 sudo apt install gtkwave
 sudo apt-get install libcanberra-gtk-module
 ```
-### TOOL CHECK:
 ```
  gtkwave -v
 ```
+![image](https://github.com/Lakshana-2006/RISC-V-TAPEOUT-PROGRAM/blob/4d4b3c317afb203f56ec4dc89eb3b2b889c1d397/week-0%20/pictures/gtkwave.png)
