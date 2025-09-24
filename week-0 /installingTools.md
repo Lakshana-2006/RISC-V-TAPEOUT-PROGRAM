@@ -50,6 +50,7 @@ sudo make install
 ```
 $ sudo apt-get update
 $ sudo apt install gtkwave
+![image](https://github.com/Lakshana-2006/RISC-V-TAPEOUT-PROGRAM/blob/e26f00981671f2ff4b71bc9ecbc71a3ed4ea4089/week-0%20/pictures/iverilog.png)
 ```
 ![image](Screenshot3.jpg)
 
